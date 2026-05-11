@@ -1,0 +1,3 @@
+[submodule "anchor_escrow_litesvm"]
+	path = anchor_escrow_litesvm
+	url = https://github.com/A91y/anchor_escrow_litesvm.git

@@ -6,3 +6,7 @@
 	path = whitelist_transfer_hook
 	url = https://github.com/A91y/whitelist_transfer_hook.git
 	branch = main
+[submodule "tollgated_vault_anchor"]
+	path = tollgated_vault_anchor
+	url = https://github.com/A91y/tollgated_vault_anchor.git
+	branch = main

@@ -2,3 +2,7 @@
 	path = anchor_escrow_litesvm
 	url = https://github.com/A91y/anchor_escrow_litesvm.git
 	branch = main
+[submodule "whitelist_transfer_hook"]
+	path = whitelist_transfer_hook
+	url = https://github.com/A91y/whitelist_transfer_hook.git
+	branch = main

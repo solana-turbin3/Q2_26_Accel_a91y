@@ -14,4 +14,5 @@ Solana Turbine3 Accelerated Builders — Q2 2026 Cohort
 
 | Project | Repository |
 |---|---|
-| Tuktuk Challenge — Deadman Switch | [tuktuk_challenge_deadman_switch](https://github.com/A91y/tuktuk_challenge_deadman_switch) |
+| MagicBlock VRF Challenge | [magicblock_vrf_challenge](https://github.com/A91y/magicblock_vrf_challenge) |
+| Tuktuk Challenge - Deadman Switch | [tuktuk_challenge_deadman_switch](https://github.com/A91y/tuktuk_challenge_deadman_switch) |

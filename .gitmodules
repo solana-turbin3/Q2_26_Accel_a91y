@@ -14,3 +14,7 @@
 	path = tuktuk_challenge_deadman_switch
 	url = https://github.com/A91y/tuktuk_challenge_deadman_switch.git
 	branch = main
+[submodule "magicblock_vrf_challenge"]
+	path = magicblock_vrf_challenge
+	url = https://github.com/A91y/magicblock_vrf_challenge.git
+	branch = main

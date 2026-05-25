@@ -10,3 +10,7 @@
 	path = tollgated_vault_anchor
 	url = https://github.com/A91y/tollgated_vault_anchor.git
 	branch = main
+[submodule "tuktuk_challenge_deadman_switch"]
+	path = tuktuk_challenge_deadman_switch
+	url = https://github.com/A91y/tuktuk_challenge_deadman_switch.git
+	branch = main

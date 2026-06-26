@@ -18,3 +18,7 @@
 	path = magicblock_vrf_challenge
 	url = https://github.com/A91y/magicblock_vrf_challenge.git
 	branch = main
+[submodule "solana_gpt_tuktuk"]
+	path = solana_gpt_tuktuk
+	url = https://github.com/A91y/solana_gpt_tuktuk.git
+	branch = main

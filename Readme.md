@@ -17,3 +17,9 @@ Solana Turbine3 Accelerated Builders — Q2 2026 Cohort
 | MagicBlock VRF Challenge | [magicblock_vrf_challenge](https://github.com/A91y/magicblock_vrf_challenge) |
 | Tuktuk Challenge - Deadman Switch | [tuktuk_challenge_deadman_switch](https://github.com/A91y/tuktuk_challenge_deadman_switch) |
 | Solana GPT Tuktuk (Major) | [solana_gpt_tuktuk](https://github.com/A91y/solana_gpt_tuktuk) |
+
+## Week 3
+
+| Project | Repository |
+|---|---|
+| Rust Generic Storage Challenge | [rust_generic_storage_challenge](https://github.com/A91y/rust_generic_storage_challenge) |

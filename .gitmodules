@@ -22,3 +22,7 @@
 	path = solana_gpt_tuktuk
 	url = https://github.com/A91y/solana_gpt_tuktuk.git
 	branch = main
+[submodule "rust_generic_storage_challenge"]
+	path = rust_generic_storage_challenge
+	url = https://github.com/A91y/rust_generic_storage_challenge.git
+	branch = main

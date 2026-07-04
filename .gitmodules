@@ -26,3 +26,7 @@
 	path = rust_generic_storage_challenge
 	url = https://github.com/A91y/rust_generic_storage_challenge.git
 	branch = main
+[submodule "accel_pinocchio_escrow"]
+	path = accel_pinocchio_escrow
+	url = https://github.com/A91y/accel_pinocchio_escrow.git
+	branch = main

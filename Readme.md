@@ -23,4 +23,10 @@ Solana Turbine3 Accelerated Builders — Q2 2026 Cohort
 | Project | Repository |
 |---|---|
 | Rust Generic Storage Challenge | [rust_generic_storage_challenge](https://github.com/A91y/rust_generic_storage_challenge) |
-| Pinocchio Escrow | [accel_pinocchio_escrow](https://github.com/A91y/accel_pinocchio_escrow) |
+
+## Week 4
+
+| Project | Repository |
+|---|---|
+| Accel Pinocchio Escrow | [accel_pinocchio_escrow](https://github.com/A91y/accel_pinocchio_escrow) |
+| Pinocchio Fundraiser | [pinocchio-fundraiser](https://github.com/A91y/pinocchio-fundraiser) |

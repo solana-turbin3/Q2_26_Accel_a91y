@@ -36,3 +36,11 @@ Solana Turbine3 Accelerated Builders — Q2 2026 Cohort
 | Project | Repository |
 |---|---|
 | Anchor Core NFT Staking | [anchor-core-nft-staking](https://github.com/A91y/anchor-core-nft-staking) |
+
+## Capstone
+
+| Project | Repository |
+|---|---|
+| StealthX — Private MPP (Private Machine Payment Protocol) | [accel-StealthX](https://github.com/Turbin3/accel-StealthX) |
+
+Cohort concluded.

@@ -34,3 +34,7 @@
 	path = pinocchio-fundraiser
 	url = https://github.com/A91y/pinocchio-fundraiser.git
 	branch = main
+[submodule "anchor-core-nft-staking"]
+	path = anchor-core-nft-staking
+	url = https://github.com/A91y/anchor-core-nft-staking.git
+	branch = main

@@ -30,3 +30,9 @@ Solana Turbine3 Accelerated Builders — Q2 2026 Cohort
 |---|---|
 | Accel Pinocchio Escrow | [accel_pinocchio_escrow](https://github.com/A91y/accel_pinocchio_escrow) |
 | Pinocchio Fundraiser | [pinocchio-fundraiser](https://github.com/A91y/pinocchio-fundraiser) |
+
+## Week 5
+
+| Project | Repository |
+|---|---|
+| Anchor Core NFT Staking | [anchor-core-nft-staking](https://github.com/A91y/anchor-core-nft-staking) |
